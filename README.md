@@ -1,2 +1,2 @@
-# trust_ai_auto
-this is the assignment 4 for group trust AI
+# trust_ai_python
+this is our python code
